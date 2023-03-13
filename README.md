@@ -56,7 +56,7 @@ N'oubliez pas de donner une étoile au projet ! Merci encore !
     ```sh
     git commit -m 'Mon message de commit
     ```
-4. Poussez vers la brancheblockchain
+4. Poussez vers la branche concernée
     ```sh
     git push origin feature/ma-contribution
     ```
