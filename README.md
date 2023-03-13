@@ -34,7 +34,7 @@ Ces prérequis vous permettront de suivre cette formation d'initiation au _frame
 Pour cloner ce dépôt, la simple commande git suivante vous permettra d'en avoir une copie sur votre machine :
 
    ```sh
-   git clone https://github.com/sqqyqqh/intro-blockchain.git
+   git clone https://github.com/sqqyqqh/intro-vuejs.git
    ```
 
 <p align="right">(<a href="#readme-top">haut de page</a>)</p>
@@ -56,7 +56,7 @@ N'oubliez pas de donner une étoile au projet ! Merci encore !
     ```sh
     git commit -m 'Mon message de commit
     ```
-4. Poussez vers la branche
+4. Poussez vers la brancheblockchain
     ```sh
     git push origin feature/ma-contribution
     ```
