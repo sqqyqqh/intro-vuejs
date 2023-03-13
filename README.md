@@ -85,4 +85,4 @@ Email - [sqqyqqh@proton.me](mailto:sqqyqqh@proton.me) / GitHub - [@sqqyqqh](http
 ## 📚 Sources
 _Attention : Il est important de noter que ces différents sujets évoluent rapidement, donc assurez-vous de choisir des ressources qui sont à jour et qui couvrent les dernières tendances et développements dans le domaine._
 - [Vue.js, tutoriel officiel (en anglais)](https://vuejs.org/tutorial/)
-- [Vue.js, guide officiel](https://vuejs.org/tutorial/](https://fr.vuejs.org/guide/introduction.html)
+- [Vue.js, guide officiel](https://fr.vuejs.org/guide/introduction.html)
