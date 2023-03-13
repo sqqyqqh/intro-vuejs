@@ -157,11 +157,7 @@ Nous venons d'ajouter ici notre composant Vue à notre instance Vue. Nous avons 
 
 ##Les directives personnalisées
 
-Les directives personnalisées sont une fonctionnalité avancée de Vue.js qui vous permet de créer vos propres directives. Les directives personnalisées
-Sayah El Yatim
-continue
-
-peuvent être utilisées pour ajouter des fonctionnalités personnalisées à votre application qui ne sont pas disponibles dans les directives intégrées de Vue.js.
+Les directives personnalisées sont une fonctionnalité avancée de Vue.js qui vous permet de créer vos propres directives. Les directives personnalisées peuvent être utilisées pour ajouter des fonctionnalités personnalisées à votre application qui ne sont pas disponibles dans les directives intégrées de Vue.js.
 
 Voici un exemple de directive personnalisée :
 
@@ -173,7 +169,7 @@ Vue.directive('mon-directive', {
 })
 ```
 
-Dans cet exemple, nous avons créé une nouvelle directive appelée mon-directive. Cette directive change la couleur du texte d'un élément HTML en fonction de la valeur de l'argument de liaison.
+Ici, nous avons créé une nouvelle directive appelée mon-directive. Cette directive change la couleur du texte d'un élément HTML en fonction de la valeur de l'argument de liaison.
 
 Nous pouvons ensuite utiliser cette directive dans notre HTML :
 
