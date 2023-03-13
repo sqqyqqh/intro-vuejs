@@ -76,7 +76,7 @@ Distribué sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/b
 <!-- CONTACT -->
 ## ✉️ Contact
 
-Email - [sqqyqqh@proton.me](mailto:sqqyqqh@proton.me) / GitHub - [@sqqyqqh](https://github.com/github_username/repo_name)
+Email - [sqqyqqh@proton.me](mailto:sqqyqqh@proton.me) / GitHub - [@sqqyqqh](https://github.com/sqqyqqh)
 
 <p align="right">(<a href="#readme-top">haut de page</a>)</p>
 
